@@ -9,7 +9,7 @@ import type { SpecialButtonProps } from '../web-components/special-button/index'
  * occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
  */
 const meta = {
-    title: 'Practice/special-button',
+    title: 'Web Components/special-button',
     tags: ['autodocs'],
     render: (args) => SpecialButton(args),
     argTypes: {
